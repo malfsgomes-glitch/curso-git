@@ -1,7 +1,7 @@
 local config = {
   ["tm shiny ampharos"] = {
     effect = 1508,
-    effect2 = 4308,
+    effect2 = 200,
   },
 
   ["spells giovanni quest"] = {
@@ -10,8 +10,8 @@ local config = {
   },
 
   ["default"] = {
-    effect = 385,
-    effect2 = 48,
+    effect = 1508,
+    effect2 = 148,
   },
 }
 
